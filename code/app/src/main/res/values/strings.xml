@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">SqlLite</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="register">Register</string>
+    <string name="registered">Already Registered?</string>
+    <string name="login">Login Here</string>
+    <string name="login1">Login</string>
+    <string name="string1">Don\'t have an account?</string>
+    <string name="string2">Register Here</string>
+    <string name="id">Id</string>
+    <string name="one">1</string>
+    <string name="logout">LOGOUT</string>
+    <string name="username">Username</string>
+    <string name="name">probelalkhan</string>
+    <string name="email">Email</string>
+    <string name="emailid">probelalkhan@gmail.com</string>
+    <string name="gender">Gender</string>
+    <string name="Login_Successful">Login_Successful</string>
+</resources>
